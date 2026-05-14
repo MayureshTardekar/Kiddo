@@ -38,12 +38,12 @@ Check out the vibrant and kid-friendly interface of Kiddo!
 
 | **Splash & Entry** | **Home Hub** | **Learning Zone** |
 |:---:|:---:|:---:|
-| ![Splash](./img/slpash.jpg) | ![Home](./img/home%20screen.jpg) | ![Learn](./img/learn%20screen.jpg) |
+| <img src="img/splash.jpg" width="200"> | <img src="img/home_screen.jpg" width="200"> | <img src="img/learn_screen.jpg" width="200"> |
 | *Fun Beginnings* | *Central Command* | *Practice Makes Perfect* |
 
 | **Challenge Time** | **Rewards Gallery** | **My Profile** |
 |:---:|:---:|:---:|
-| ![Test](./img/test%20screen.jpg) | ![Reward](./img/reward%20screen.jpg) | ![Profile](./img/profile(me).jpg) |
+| <img src="img/test_screen.jpg" width="200"> | <img src="img/reward_screen.jpg" width="200"> | <img src="img/profile.jpg" width="200"> |
 | *Test Your Knowledge* | *Earn Those Badges!* | *Personalized for You* |
 
 ---

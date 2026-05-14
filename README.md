@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.jpg" width="150" alt="Kiddo Logo">
+  <img src="./assets/logo.jpg" width="150" alt="Kiddo Logo">
 </p>
 
 <h1 align="center">🎨 Kiddo: The Ultimate Learning Adventure 🚀</h1>
@@ -38,12 +38,12 @@ Check out the vibrant and kid-friendly interface of Kiddo!
 
 | **Splash & Entry** | **Home Hub** | **Learning Zone** |
 |:---:|:---:|:---:|
-| <img src="img/slpash.jpg" width="200"> | <img src="img/home%20screen.jpg" width="200"> | <img src="img/learn%20screen.jpg" width="200"> |
+| ![Splash](./img/slpash.jpg) | ![Home](./img/home%20screen.jpg) | ![Learn](./img/learn%20screen.jpg) |
 | *Fun Beginnings* | *Central Command* | *Practice Makes Perfect* |
 
 | **Challenge Time** | **Rewards Gallery** | **My Profile** |
 |:---:|:---:|:---:|
-| <img src="img/test%20screen.jpg" width="200"> | <img src="img/reward%20screen.jpg" width="200"> | <img src="img/profile(me).jpg" width="200"> |
+| ![Test](./img/test%20screen.jpg) | ![Reward](./img/reward%20screen.jpg) | ![Profile](./img/profile(me).jpg) |
 | *Test Your Knowledge* | *Earn Those Badges!* | *Personalized for You* |
 
 ---
@@ -120,12 +120,6 @@ Contributions are what make the open-source community such an amazing place to l
 
 ---
 
-## 📜 License
-
-Distributed under the **MIT License**. See `LICENSE` for more information.
-
----
-
 <p align="center">
-  Made with ❤️ by <a href="https://github.com/MayureshTardekar">Mayuresh Tardekar</a>
+  Developed by <a href="https://github.com/MayureshTardekar">Mayuresh Tardekar</a>
 </p>
